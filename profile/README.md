@@ -21,7 +21,7 @@ Sample applications should attempt to follow the following guidelines:
 3. Apps may indicate the level of complexity in the app's readme
 4. Apps should strive to demonstrate a single idea (no kitchen sink apps...unless that is the singular point of the demo)
 5. Apps must have a LICENSE and CODE OF CONDUCT file in the repository 
-6. Apps should attempt to follow WCAG success criteria for inclusive application demos
+6. Apps should attempt to follow [WCAG 2.1 AA Success Criteria](https://www.w3.org/WAI/WCAG21/quickref/) for inclusive application demos
 
 ## Application Ideas
 
