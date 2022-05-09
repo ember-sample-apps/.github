@@ -44,3 +44,12 @@ Here are some ideas for sample applications:
 
 Have more ideas? Of course you do!! Please share! Even if you are unable to implement the sample you would like to exist, maybe someone else is able to do it!
 
+## Reasons to Participate
+
+1. You a developer who answers a lot of questions about how to do things in Ember and would love to create a sample app to point people to
+2. You don't feel comforable answering questions in chat but wish you could contribute some other way- a sample app is a great way to do that!
+3. You're learning Ember and want to build something practical (and, great resume builder at the same time!)
+4. You have a ton of ideas but you haven't had a well-structured outlet for those ideas yet
+5. You just wanna build websites
+
+These are just _some_ of the reasons you might want to participate!
