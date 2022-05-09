@@ -11,6 +11,8 @@ Many web developers like to learn by looking at sample code. The purpose of this
 Everyone in the community is welcome to participate. If you have a sample application that you would like to contribute, please DM Melanie on the Ember community Discord server to discuss.
 
 Each sample application will be given its own repo within this org.
+Sample App contributors should be willing to regularly maintain the codebase or be willing to add other contributors to help maintain the codebase.
+Projects that remain in a long-term neglected state will be deprecated.
 
 ### Sample Application Requirements
 
