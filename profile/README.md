@@ -36,5 +36,6 @@ Here are some ideas for sample applications:
 - [ ] an app to manage special dates and display reminders
 - [ ] an app that shows the user what time it is in their own timezone no matter who is looking at the URL
 - [ ] an app that aggregates available data for review
+- [ ] an app that demonstrates a combination of technologies (like an Ember app connected to an Airtable, or an Ember app that uses something other than ember-data)
 
 Have more ideas? Please share! Even if you are unable to implement the sample you would like to exist, maybe someone else is able to do it!
