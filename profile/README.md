@@ -8,19 +8,20 @@ Many web developers like to learn by looking at sample code. The purpose of this
 
 ## Participation
 
-Everyone in the community is welcome to participate. If you have a sample application that you would like to contribute, please DM Melanie on the Ember community Discord server to discuss.
+Everyone in the community is welcome to participate. If you have a sample application that you would like to contribute, please DM Melanie on the [Ember community Discord server](https://discord.gg/emberjs) (or tweet [@a11yMel](https://twitter.com/a11ymel)) to discuss.
 
-Each sample application will be given its own repo within this org.
-Sample App contributors should be willing to regularly maintain the codebase or be willing to add other contributors to help maintain the codebase.
+- Each new sample application will be given its own repo within this org
+- Existing sample apps can request inclusion in the showcase website if the repo is public
+- Sample App contributors should be willing to regularly maintain the codebase or be willing to add other contributors to help maintain the codebase.
 Projects that remain in a long-term neglected state will be deprecated.
 
 ### Sample Application Requirements
 
 Sample applications should attempt to follow the following guidelines:
 
-1. Apps should be as idiomatic as possible
+1. Apps should be as idiomatic as possible (or if weird, be weird for a purpose)
 2. Apps must be appropriate for developers of all ages
-3. Apps may indicate the level of complexity in the app's readme
+3. Apps may indicate the level of complexity in the repo's README
 4. Apps should strive to demonstrate a single idea (no kitchen sink apps...unless that is the singular point of the demo)
 5. Apps must have a [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) and [CODE OF CONDUCT](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project) file in the repository 
 6. Apps should attempt to follow [WCAG 2.1 AA Success Criteria](https://www.w3.org/WAI/WCAG21/quickref/) for inclusive application demos
@@ -35,7 +36,7 @@ Here are some ideas for sample applications:
 - [ ] an app that allows you to browse products and add them to a shopping cart for purchase
 - [ ] an app that manages inventory (perhaps of your personal reading library)
 - [ ] an app that allows you to upload and share photos with family and friends
-- [ ] an app that pulls publicly available data and displays it on a website
+- [ ] an app that pulls publicly available data and displays it on a website (here's a list of [public APIs](https://github.com/public-apis/public-apis))
 - [ ] an app that provides a form for users to fill out (and does any number of things with the results).
 - [ ] a blog
 - [ ] an app to manage special dates and display reminders
@@ -53,6 +54,9 @@ Have more ideas? Of course you do!! Please share! Even if you are unable to impl
 2. You don't feel comforable answering questions in chat, but wish you could contribute some other way- a sample app is a great way to do that!
 3. You're learning Ember and want to build something practical (and, build your project portfolio at the same time!)
 4. You have a ton of ideas but you haven't had a well-structured outlet for those ideas yet
-5. You just wanna build websites
+5. You don't enjoy your day job and would like a fun side project
+6. You love your day job but would also just like a fun side project
+7. You've been looking for an excuse to try current Ember
+8. You just wanna build websites
 
 These are just _some_ of the reasons you might want to participate!
