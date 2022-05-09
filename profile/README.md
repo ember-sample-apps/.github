@@ -42,4 +42,5 @@ Here are some ideas for sample applications:
 - [ ] an app that aggregates available data for review
 - [ ] an app that demonstrates a combination of technologies (like an Ember app connected to an Airtable, or an Ember app that uses something other than ember-data)
 
-Have more ideas? Please share! Even if you are unable to implement the sample you would like to exist, maybe someone else is able to do it!
+Have more ideas? Of course you do!! Please share! Even if you are unable to implement the sample you would like to exist, maybe someone else is able to do it!
+
