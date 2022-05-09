@@ -45,6 +45,7 @@ Here are some ideas for sample applications:
 - [ ] an app that demonstrates an integration of other tech (like an Ember app connected to an Airtable, or an Ember app that uses something other than ember-data)
 - [ ] a chat app
 - [ ] an app that demonstrates how to use the latest CSS hotness
+- [ ] some sort of game
 
 Have more ideas? Of course you do!! Please share! Even if you are unable to implement the sample you would like to exist, maybe someone else is able to do it!
 
