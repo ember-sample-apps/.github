@@ -51,12 +51,14 @@ Have more ideas? Of course you do!! Please share! Even if you are unable to impl
 ## Reasons to Participate
 
 1. You are a developer who answers a lot of questions about Ember and would love to create a sample app to point people to
-2. You don't feel comforable answering questions in chat, but wish you could contribute some other way- a sample app is a great way to do that!
+2. You don't feel comforable answering questions in chat, but wish you could contribute some other way. Like a sample app.
 3. You're learning Ember and want to build something practical (and, build your project portfolio at the same time!)
 4. You have a ton of ideas but you haven't had a well-structured outlet for those ideas yet
-5. You don't enjoy your day job and would like a fun side project
-6. You love your day job but would also just like a fun side project
-7. You've been looking for an excuse to try current Ember
-8. You just wanna build websites
+5. You want to figure out if you have imposter syndrome or if there are really things you just don't know yet
+6. You want to level up in what you do know and maybe learn something new in the process
+7. You don't enjoy your day job and would like a fun side project
+8. You love your day job but would also just like a fun side project
+9. You've been looking for an excuse to try current Ember
+10. You just wanna build websites
 
 These are just _some_ of the reasons you might want to participate!
