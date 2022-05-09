@@ -2,11 +2,11 @@
 
 Project start date: May 9, 2022
 
-Many web developers like to learn by looking at sample code. The purpose of this project is to have a place where sample Ember apps can live in one place for users to learn from.
+Many web developers like to learn by looking at sample code. The purpose of this project is to have a place where sample Ember apps can live in one place for users to learn from. The best example of this is the [Super Rentals tutorial](https://guides.emberjs.com/release/tutorial/part-1/) in the [official Ember Guides](https://guides.emberjs.com/release/).
 
 ## Participation
 
-Anyone in the community is welcome to participate. If you have a sample application that you would like to contribute, please DM Melanie on the Ember community Discord server to discuss.
+Everyone in the community is welcome to participate. If you have a sample application that you would like to contribute, please DM Melanie on the Ember community Discord server to discuss.
 
 Each sample application will be given its own repo within this org.
 
