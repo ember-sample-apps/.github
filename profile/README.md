@@ -15,7 +15,7 @@ Everyone in the community is welcome to participate. If you have a sample applic
 - Sample App contributors should be willing to regularly maintain the codebase or be willing to add other contributors to help maintain the codebase.
 Projects that remain in a long-term neglected state will be deprecated.
 
-### Sample Application Requirements
+### Sample Application Guidelines
 
 Sample applications should attempt to follow the following guidelines:
 
