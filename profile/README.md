@@ -1,5 +1,8 @@
 # Ember Sample Apps
 
+![Ember Sample Apps](https://github.com/ember-sample-apps/.github/assets/4587451/86799faf-15ef-4cf7-97c3-c5b7301346b7)
+
+
 Many web developers like to learn by looking at sample code. The purpose of this project is to have a place where sample Ember apps can live in one place for users to learn from. The best example of this is the [Super Rentals tutorial](https://guides.emberjs.com/release/tutorial/part-1/) in the [official Ember Guides](https://guides.emberjs.com/release/).
 
 ## Participation
